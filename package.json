@@ -1,0 +1,24 @@
+{
+  "name": "Answers-Analytics-Simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node selenium"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosiegrant/Answers-Analytics-Simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosiegrant/Answers-Analytics-Simulator/issues"
+  },
+  "homepage": "https://github.com/rosiegrant/Answers-Analytics-Simulator#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
