@@ -19,11 +19,10 @@ Once you've followed the aboves steps
  2. You should see chrome driver open up, load the demo experience, and open an FAQ!
 
 
-## How To Automate
+## How to Automate
 * The `com.demo.daemon.plist` file is an example launchd configuration file, to get this working automatically on your machine. Follow the instructions here, https://medium.com/@chetcorcos/a-simple-launchd-tutorial-9fecfcf2dbb3
 * Next steps would be figuring out how to get this in a lambda function and running automatically (if we decide this is the right way to go)
 
 # Resources
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Your_own_automation_environment#Selenium
-
 https://medium.com/@chetcorcos/a-simple-launchd-tutorial-9fecfcf2dbb3
