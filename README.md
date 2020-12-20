@@ -1,6 +1,6 @@
 # Answers-Analytics-Simulator
 
-Answers Analytics Simulator suns a selenium test that automatically conducts a search on the Healthcare Answers demo site (https://synergic-health.yextdemos.com/), and clicks an FAQ. It can be extended to other demo sites and to perform other queries.
+Answers Analytics Simulator uses selenium to automatically conduct a search on the Healthcare Answers demo site (https://synergic-health.yextdemos.com/), and expand an FAQ. It can be extended to other demo sites and to perform other queries.
 
 ## Requirements
 Download [npm](https://www.npmjs.com/get-npm) if you don't already have it.
